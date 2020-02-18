@@ -1,6 +1,6 @@
 # Claire
 
-## Hack The Valley Project - Mental-Health Journaling System (Chrome Extension)
+## About
 Mental health is overlooked so often. Out chrome extension allows users to log details about their day through text, picture or voice. Entries are analyzed for sentiment which are visualized, allowing users to track their mental health over time. Addtionally, entries are also matched with resources accross Youtube, Quora, Twitter and Reddit to connect users with others who have experienced similiar issues in the past. 
 
 ## Stack
