@@ -17,5 +17,5 @@ Mental health is overlooked so often. Claire allows users to log details about t
 ### New Post Recorded
 ![newPost](https://user-images.githubusercontent.com/52130952/74701082-951ee280-51d3-11ea-97a3-446a175c8ae2.JPG)
 
-### Full Dashboard
+### Full Dynamic Dashboard
 ![FullDashboard](https://user-images.githubusercontent.com/52130952/74701175-f0e96b80-51d3-11ea-9a19-ff00d0225b52.JPG)
